@@ -1,0 +1,12 @@
+
+
+australia:vienna
+bangladesh:dhaka
+china:beiging
+france:paris
+india:new delhi
+italy:rome
+japan:tokyo
+pakistan:islamabad
+russia:moskow
+spain:madrid

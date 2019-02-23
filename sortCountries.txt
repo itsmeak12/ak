@@ -1,0 +1,12 @@
+
+
+china  beiging
+bangladesh  dhaka
+pakistan  islamabad
+spain  madrid
+russia  moskow
+india  new delhi
+france  paris
+italy  rome
+japan  tokyo
+australia  vienna
